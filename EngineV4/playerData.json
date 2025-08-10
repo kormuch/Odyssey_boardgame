@@ -1,0 +1,15 @@
+{
+    "player 1": {
+        "playerID": 1,
+        "actioncards": {
+            "battle": 0,
+            "craftsmanship": 4,
+            "fellowship": 0,
+            "joker": 0,
+            "journey": 2
+        },
+        "actioncards_played": 0,
+        "endurance": 15,
+        "activePlayer": true
+    }
+}
