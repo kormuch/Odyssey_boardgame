@@ -1,0 +1,28 @@
+{
+    "player 1": {
+        "playerID": 1,
+        "actioncards": {
+            "battle": 3,
+            "craftsmanship": 3,
+            "fellowship": 0,
+            "joker": 0,
+            "journey": 0
+        },
+        "actioncards_played": 0,
+        "endurance": 15,
+        "activePlayer": true
+    },
+    "player 2": {
+        "playerID": 2,
+        "actioncards": {
+            "battle": 2,
+            "craftsmanship": 0,
+            "fellowship": 1,
+            "joker": 2,
+            "journey": 1
+        },
+        "actioncards_played": 0,
+        "endurance": 15,
+        "activePlayer": false
+    }
+}
