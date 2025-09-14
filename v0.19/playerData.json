@@ -1,0 +1,38 @@
+{
+    "player 1": {
+        "playerID": 1,
+        "actioncards": {
+            "battle": 1,
+            "fellowship": 1,
+            "craftsmanship": 3,
+            "journey": 1,
+            "joker": 0,
+            "2x battle": 0,
+            "2x fellowship": 0,
+            "2x craftsmanship": 0,
+            "2x journey": 0,
+            "2x joker": 0
+        },
+        "actioncards_played": 0,
+        "endurance": 15,
+        "activePlayer": true
+    },
+    "player 2": {
+        "playerID": 2,
+        "actioncards": {
+            "battle": 0,
+            "fellowship": 3,
+            "craftsmanship": 3,
+            "journey": 0,
+            "joker": 0,
+            "2x battle": 0,
+            "2x fellowship": 0,
+            "2x craftsmanship": 0,
+            "2x journey": 0,
+            "2x joker": 0
+        },
+        "actioncards_played": 0,
+        "endurance": 15,
+        "activePlayer": false
+    }
+}
