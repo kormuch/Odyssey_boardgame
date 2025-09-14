@@ -1,0 +1,56 @@
+{
+    "game_state": {
+        "status": 1,
+        "status_meaning": "Game initialized but not running",
+        "active_player_id": 1,
+        "number_of_players": 2,
+        "round_counter": 1,
+        "action_cards_played": 0,
+        "current_action_key": "",
+        "user_input_counter": 0,
+        "action_paths": {
+            "battle": 0,
+            "fellowship": 0,
+            "wits": 0,
+            "journey": 0
+        }
+    },
+    "players": {
+        "player 1": {
+            "playerID": 1,
+            "actioncards": {
+                "battle": 2,
+                "fellowship": 1,
+                "wits": 2,
+                "journey": 1,
+                "joker": 0,
+                "2x battle": 0,
+                "2x fellowship": 0,
+                "2x wits": 0,
+                "2x journey": 0,
+                "2x joker": 0
+            },
+            "actioncards_played": 0,
+            "endurance": 15,
+            "activePlayer": true
+        },
+        "player 2": {
+            "playerID": 2,
+            "actioncards": {
+                "battle": 1,
+                "fellowship": 0,
+                "wits": 3,
+                "journey": 2,
+                "joker": 0,
+                "2x battle": 0,
+                "2x fellowship": 0,
+                "2x wits": 0,
+                "2x journey": 0,
+                "2x joker": 0
+            },
+            "actioncards_played": 0,
+            "endurance": 15,
+            "activePlayer": false
+        }
+    }
+}
