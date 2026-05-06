@@ -1,0 +1,16 @@
+We should discuss the following issues:
+
+
+- game status 1000 not helpful info -> use gamestatus descriptive state instead of numbers
+- Game status must be not a number but a descriptive state like: running game, options menu, etc.
+- the skip turn button must work: but skip turn means: either drawing two or restoring main path 1: so the skip button should not be there. it only makes sense to have it if one has played one card and thus cannot use heal or draw card anymore.
+- documentation: create description of pipelin of how engine is supposed to handle input: press button -> get connected action name -> action name put into action handler -> action handler analyses action -> action executed -> ready for new input 
+- Each path step must hold a reward/penalty for stepping on it.
+- Have a stack random events before a card is drawn
+- Have a fixed number pretermined events that get triggered before a random event is triggered
+
+
+question:
+- joker handling: when playing a joker card actively: allow to choose for what, an option menu must open: but is it neccessary?
+- include name of functions called in the log, to better keep track which functions were called?
+- check status box: what do we actually need in there? everything is useful information. How do we best present it?

@@ -1,0 +1,32 @@
+[
+    {
+        "playerNumber": 1,
+        "actioncards": {},
+        "actioncards_played": 0,
+        "damageSuffered_player": 0
+    },
+    {
+        "playerNumber": 2,
+        "actioncards": {},
+        "actioncards_played": 0,
+        "damageSuffered_player": 0
+    },
+    {
+        "playerNumber": 3,
+        "actioncards": {},
+        "actioncards_played": 0,
+        "damageSuffered_player": 0
+    },
+    {
+        "playerNumber": 4,
+        "actioncards": {},
+        "actioncards_played": 0,
+        "damageSuffered_player": 0
+    },
+    {
+        "playerNumber": 5,
+        "actioncards": {},
+        "actioncards_played": 0,
+        "damageSuffered_player": 0
+    }
+]

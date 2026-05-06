@@ -1,0 +1,5 @@
+- Make main path Smaller
+- check status box: what do we actually need in there?
+- Game status must be not a number but a descriptive state like: running game, options menu, etc.
+- joker handling: when playing a joker card actively: allow to choose for what, an option menu must open: but is it neccessary?
+- the skip turn button must work: but skip turn means: either drawing two or restorung main path 1

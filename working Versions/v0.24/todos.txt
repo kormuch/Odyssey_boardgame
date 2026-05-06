@@ -1,0 +1,9 @@
+We should discuss the following issues:
+- include name of functions called in the log
+- check status box: what do we actually need in there?
+- Game status must be not a number but a descriptive state like: running game, options menu, etc.
+- the skip turn button must work: but skip turn means: either drawing two or restoring main path 1: so the skip button should not be there. it only makes sense to have it if one has played one card and thus cannot use heal or draw card anymore.
+- documentation: create description of pipelin of how engine is supposed to handle input: press button -> get connected action name -> action name put into action handler -> action handler analyses action -> action executed -> ready for new input 
+
+question:
+- joker handling: when playing a joker card actively: allow to choose for what, an option menu must open: but is it neccessary?
